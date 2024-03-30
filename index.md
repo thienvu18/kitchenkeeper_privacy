@@ -1,3 +1,23 @@
+# Giới thiệu về ứng dụng Tủ Lạnh Xinh Xắn
+
+Tủ Lạnh Xinh Xắn là một ứng dụng nhỏ nhằm giúp bạn dễ dàng theo dõi các thực phẩm và nguyên liệu đã mua, từ đó tạo ra sự thuận tiện và hiệu quả trong việc quản lý tủ lạnh của bạn. Với giao diện đơn giản và dễ sử dụng, ứng dụng này cho phép bạn tổ chức tủ lạnh của mình một cách thông minh và hiệu quả.
+
+## Các tính năng chính:
+
+### 1. Quản lý thực phẩm đang có
+
+Với Tủ Lạnh Xinh Xắn, bạn có thể dễ dàng theo dõi các thực phẩm và nguyên liệu hiện có trong tủ lạnh của mình. Bạn có thể thêm mới, chỉnh sửa hoặc xóa các mặt hàng một cách nhanh chóng và tiện lợi.
+
+### 2. Theo dõi hạn sử dụng của sản phẩm
+
+Ứng dụng cho phép bạn gắn thẻ các sản phẩm với hạn sử dụng của chúng. Điều này giúp bạn theo dõi và nhắc nhở về các sản phẩm sắp hết hạn, từ đó tránh lãng phí thực phẩm và tiền bạc.
+
+### 3. Thêm danh sách đi chợ
+
+Tủ Lạnh Xinh Xắn cung cấp tính năng thêm các sản phẩm vào danh sách đi chợ. Bạn có thể tạo danh sách mua sắm dễ dàng từ các mặt hàng đã có hoặc các mặt hàng cần thêm vào tủ lạnh. Điều này giúp bạn quản lý việc mua sắm hàng ngày một cách tổ chức và tiết kiệm thời gian.
+
+Tóm lại, Tủ Lạnh Xinh Xắn là một ứng dụng đơn giản nhưng hữu ích, giúp bạn quản lý tủ lạnh và danh sách mua sắm một cách hiệu quả và tiện lợi.
+
 # Chính sách Quyền riêng tư của Tủ Lạnh Xinh Xắn
 
 Chúng tôi tôn trọng quyền riêng tư của người dùng và cam kết bảo vệ thông tin cá nhân của họ. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng Tủ Lạnh Xinh Xắn.
